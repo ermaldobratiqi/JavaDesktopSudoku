@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="JavaDesktopSudokuDemo">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaDesktopSudokuDemo</output-path>
+    <root id="root">
+      <element id="archive" name="JavaDesktopSudokuDemo.jar">
+        <element id="module-output" name="JavaDesktopSudokuDemo" />
+      </element>
+    </root>
+  </artifact>
+</component>
